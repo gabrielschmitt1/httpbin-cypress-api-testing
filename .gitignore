@@ -1,0 +1,12 @@
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/downloads
+cypress/results
+cypress/results/*.xml
+results
+results/*.xml
+.vscode/
+package-lock.json
+cypress.env.json
+.env
